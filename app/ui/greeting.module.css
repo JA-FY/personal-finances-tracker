@@ -1,0 +1,11 @@
+.container {
+    width: 100%;
+    border: 1px solid blue;
+    display: flex;
+}
+
+.greet {
+    width: 80%; 
+    border: 1px solid red;
+    font-size: 5rem; 
+}
